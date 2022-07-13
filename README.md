@@ -1,1 +1,1 @@
-# Business-Licence-Status-Classification
+# Business-Licence-Status-Multi Class Classification
